@@ -1,5 +1,13 @@
 # **COVID-19 Clinical Trials - Exploratory Data Analysis (EDA)**
 
+## **Table of Contents**
+- [Introduction of COVID-19 Clinical Trials](#introduction)
+- [About the Dataset](#about-the-dataset--covid-19-clinical-trials)
+- [Python libraries used](#libraries-used)
+- [Project Work flow](#project-workflow)
+- [Purpose of the analysis](#purpose-of-the-analysis)
+- [Key Insights](#key-insights)
+
 ## **Introduction**
 
 The COVID-19 pandemic triggered one of the largest and fastest global research responses in modern history.
@@ -18,8 +26,8 @@ This project performs a comprehensive Exploratory Data Analysis (EDA) on COVID-1
 The analysis focuses on clarity, interpretability, and meaningful insights, without using advanced machine learning techniques.
 
 ## **About the Dataset – COVID-19 Clinical Trials**
-#### Source: ClinicalTrials.gov
-#### Type: Public healthcare research data
+#### **Source:** ClinicalTrials.gov
+#### **Type:** Public healthcare research data
 
 ### Dataset Information
 * Number of instances: 5,783 clinical trials
